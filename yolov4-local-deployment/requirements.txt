@@ -1,0 +1,10 @@
+# requests
+opencv-python
+numpy
+Flask
+Pillow
+boto3
+# sagemaker-inference
+# retrying
+# multi-model-server
+# mxnet
