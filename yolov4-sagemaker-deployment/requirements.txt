@@ -1,0 +1,8 @@
+requests
+opencv-python
+numpy
+Pillow
+sagemaker-inference
+retrying
+multi-model-server
+mxnet
